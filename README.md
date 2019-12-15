@@ -1,6 +1,6 @@
 # Проект  *SoftSpiders*
 
-![Логотип SoftSpiders](./images/ss.png)
+![Логотип](./images/ss.png)
 
 
 *[SoftSpiders](https://github.com/softspider)* - база знаний программных решений, организованная в виде иерархии
