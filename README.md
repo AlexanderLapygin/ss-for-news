@@ -9,9 +9,7 @@
   </a>
 </p>
 
-![Логотип](./images/sslogo-from-github-20.png)
-
-# Проект *SoftSpiders*
+# ![Логотип](./images/sslogo-from-github-20.png) Проект *SoftSpiders*
 
 ![Логотип](./images/sslogo-from-github-40.png)
 <p align="center">
