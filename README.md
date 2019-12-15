@@ -30,6 +30,9 @@ OpenSource-проектов. Живой пример: участники *SoftSp
 
 # Главная идея
 
+Освоение чего-то нового почти всегда начинается с написания hello-world программы.
+TBD 
+
 
 # Иерархия проектов
 
@@ -158,6 +161,8 @@ TBD
 - apollo
 - auth
 - backend
+- cd
+- ci
 - clean-architecture (ca)
 - create-react-app (cra)
 - database (db)
@@ -198,7 +203,7 @@ TBD
 - storybook
 - tdd
 - todo
-- test
+- testing (test)
 - travis
 - typescript (ts)
 - snapshot
