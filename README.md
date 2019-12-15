@@ -14,6 +14,11 @@
 # Проект *SoftSpiders*
 
 ![Логотип](./images/sslogo-from-github-40.png)
+<p align="center">
+  <a href="https://storybook.js.org/">
+    <img src="./images/sslogo-from-github-40.png" />
+  </a>
+</p>
 
 
 *[SoftSpiders](https://github.com/softspider)* - база знаний программных решений, организованная в виде иерархии
