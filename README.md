@@ -1,6 +1,19 @@
-# Проект  *SoftSpiders*
+<p align="center">
+  <a href="https://storybook.js.org/">
+    <img src="https://user-images.githubusercontent.com/321738/63501763-88dbf600-c4cc-11e9-96cd-94adadc2fd72.png" alt="Storybook" width="400" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://storybook.js.org/">
+    <img src="https://avatars2.githubusercontent.com/u/47006425?s=400&v=4" />
+  </a>
+</p>
 
-![Логотип](./images/ss.png)
+![Логотип](./images/sslogo-from-github-20.png)
+
+# Проект *SoftSpiders*
+
+![Логотип](./images/sslogo-from-github-40.png)
 
 
 *[SoftSpiders](https://github.com/softspider)* - база знаний программных решений, организованная в виде иерархии
