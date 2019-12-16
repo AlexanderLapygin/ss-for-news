@@ -4,7 +4,7 @@
   <a href="https://github.com/Jepria">
     <img src="./images/jepria-logo-85.png" />
   </a>
-  <img src="./images/plus-50.png" />
+  <img src="./images/plus.png" />
   <a href="https://github.com/softspider">
     <img src="./images/sslogo-from-github-40.png" />
   </a>
