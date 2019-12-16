@@ -4,6 +4,10 @@
   <a href="https://github.com/softspider">
     <img src="./images/sslogo-from-github-20.png" />
   </a>
+  +
+  <a href="https://github.com/softspider">
+    <img src="./images/jepria-logo.png" />
+  </a>
 </p>
 
 Проект *[SoftSpiders](https://github.com/softspider)* неспешно разрабатывается с начала этого уже почти истёкшего года.
