@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Jepria">
-    <img src="./images/jepria-logo-80.png" />
+    <img src="./images/jepria-logo-85.png" />
   </a>
   <img src="./images/plus-50.png" />
   <a href="https://github.com/softspider">
