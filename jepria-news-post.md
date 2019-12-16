@@ -5,7 +5,7 @@
     <img src="./images/sslogo-from-github-20.png" />
   </a>
   +
-  <a href="https://github.com/softspider">
+  <a href="https://github.com/Jepria">
     <img src="./images/jepria-logo.png" />
   </a>
 </p>
