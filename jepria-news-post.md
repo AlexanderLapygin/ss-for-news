@@ -1,12 +1,12 @@
 # Воинам Jepria о проекте *[SoftSpiders](https://github.com/softspider)*
 
 <p align="center">
-  <a href="https://github.com/softspider">
-    <img src="./images/sslogo-from-github-40.png" />
-  </a>
-  +
   <a href="https://github.com/Jepria">
     <img src="./images/jepria-logo.png" />
+  </a>
+  <img src="./images/plus.png" />
+  <a href="https://github.com/softspider">
+    <img src="./images/sslogo-from-github-40.png" />
   </a>
 </p>
 
