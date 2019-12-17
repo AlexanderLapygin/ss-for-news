@@ -18,11 +18,11 @@
 Пусть для вас - коллег и суровых братьев по оружию - он станет небольшим сюрпризом, скромным и, я надеюсь, приятным
 новогодним подарком.  
 
-Предварительное рабочее, пока, мягко говоря, незаконченное описание проекта можно увидеть
-[здесь](https://github.com/softspider/softspiders).    
+Предварительное рабочее, к сожалению, пока незаконченное описание проекта можно увидеть
+[здесь](https://github.com/softspider/softspiders/blob/master/README.md).
 Перечень репозиториев, составляющих его содержание, [здесь](https://github.com/softspider?tab=repositories). 
 
-Цитата из начала [описания](https://github.com/softspider/softspiders):
+Цитата из начала [описания](https://github.com/softspider/softspiders/blob/master/README.md):
 
 >## Предназначение 
 
@@ -148,3 +148,8 @@
 - alexanderlapygin@gmail.com
 
 Как говорится, милости просим ! :)
+
+PS
+
+Из [текста описания](https://github.com/softspider/softspiders/blob/master/README.md) проекта может быть не всё понятно
+(к сожалению, это пока ожидаемо), обращайтесь, с большим удовольствием всё объясню на словах. 
