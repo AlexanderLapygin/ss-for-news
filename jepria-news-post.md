@@ -1,4 +1,4 @@
-# Воинам *Jepria* о проекте *[SoftSpiders](https://github.com/softspider)*
+# Воинам *[Jepria](https://github.com/Jepria)* о проекте *[SoftSpiders](https://github.com/softspider)*
 
 <p align="center">
   <a href="https://github.com/Jepria">
