@@ -13,7 +13,7 @@
 Проект *[SoftSpiders](https://github.com/softspider)* неспешно разрабатывается мною с начала этого, уже почти прошедшего года.
 
 Предварительное рабочее описание проекта можно увидеть [здесь](https://github.com/softspider/softspiders).  
-Перечень репозиториев, составляющих его содержание, - [здесь](https://github.com/softspider?tab=repositories). 
+Перечень репозиториев, составляющих его содержание, [здесь](https://github.com/softspider?tab=repositories). 
 
 Цитата из начала [описания](https://github.com/softspider/softspiders):
 
