@@ -21,13 +21,13 @@
 ## Главные ссылки
 
 - [Расположение  *SoftSpiders*](https://github.com/softspider/softspiders)  
-- [Описание проекта *SoftSpiders*](https://github.com/softspider/softspiders/blob/master/README.md) - пока незаконченное  
+- [Описание проекта](https://github.com/softspider/softspiders/blob/master/README.md) - пока незаконченное  
 - [База прототипов *SoftSpiders*](https://github.com/softspider?tab=repositories) - в данной реализации представлена
 иерархией GitHub-репозиториев  
 
 ## Предназначение 
 
-Цитата из начала [описания](https://github.com/softspider/softspiders/blob/master/README.md):
+Цитата из [описания проекта](https://github.com/softspider/softspiders/blob/master/README.md):
 
 >Если кратко, *[SoftSpiders](https://github.com/softspider)* можно охарактеризовать как проект создания **базы знаний
 программных решений**, создаваемой разработчиками для разработчиков.  
