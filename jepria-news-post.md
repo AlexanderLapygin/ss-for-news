@@ -10,7 +10,7 @@
   </a>
 </p>
 
-Проект *[SoftSpiders](https://github.com/softspider)* неспешно разрабатывается с начала этого, уже почти прошедшего года.
+Проект *[SoftSpiders](https://github.com/softspider)* мною неспешно разрабатывается с начала этого, уже почти прошедшего года.
 
 Его предварительное описание можно увидеть [здесь](https://github.com/softspider/softspiders).
 
