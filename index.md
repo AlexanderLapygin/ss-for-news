@@ -157,7 +157,7 @@
 - sftspider@gmail.com
 - alexanderlapygin@gmail.com
 
-Как говорится, милости просим ! :)
+Как говорится, милости просим !
 
 ### PS
 
