@@ -13,7 +13,7 @@
 - [База прототипов *SoftSpiders*](https://github.com/softspider?tab=repositories) - в данной реализации представлена
 иерархией GitHub-репозиториев  
  
-С вопросами, просьбами, пожеланиями – [пишите письма.](mailto:[LapyginA@rusfinance.ru]?subject=[SoftSpider])
+С вопросами, просьбами, пожеланиями – [пишите письма.](mailto:[alexanderlapygin@gmail.com]?subject=[SoftSpider])
  
  ## Зачем мы это делаем?
 
